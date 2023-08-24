@@ -19,6 +19,7 @@ Experience language
 
 2023.03-06 Team Project - DoNotCheat <img src="https://img.shields.io/badge/Java-yellow?style=flat&logo=Java&logoColor=F7DF1E"/>  <img src="https://img.shields.io/badge/Android Studio-green?style=flat&logo=Android Studio&logoColor=3DDC84"/>
 
+2023.07-06 Team Project - KnockKnock <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white" />  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white" />
 <!--
 **fprtmjinho/fprtmjinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 🏫
