@@ -9,7 +9,7 @@ email : fjrtmjinho@gmail.com
 #
 Experience language
 
-<img src="https://img.shields.io/badge/C-skyblue?style=flat&logo=C&logoColor=A8B9CC"/>  <img src="https://img.shields.io/badge/C++-navy?style=flat&logo=C++&logoColor=00599C"/>  <img src="https://img.shields.io/badge/Java-yellow?style=flat&logo=Java&logoColor=F7DF1E"/>  <img src="https://img.shields.io/badge/Python-darkblue?style=flat&logo=Python&logoColor=3776ABE"/>  <img src="https://img.shields.io/badge/Kotlin-purple?style=flat&logo=Kotlin&logoColor=an7F52FF"/>  <img src="https://img.shields.io/badge/Android Studio-green?style=flat&logo=Android Studio&logoColor=3DDC84"/>  <img src="https://img.shields.io/badge/Arduino-darkgreen?style=flat&logo=Arduino&logoColor=00979D"/>
+<img src="https://img.shields.io/badge/C-skyblue?style=flat&logo=C&logoColor=A8B9CC"/>  <img src="https://img.shields.io/badge/C++-navy?style=flat&logo=C++&logoColor=00599C"/>  <img src="https://img.shields.io/badge/Java-yellow?style=flat&logo=Java&logoColor=F7DF1E"/>  <img src="https://img.shields.io/badge/Python-darkblue?style=flat&logo=Python&logoColor=3776ABE"/>  <img src="https://img.shields.io/badge/Kotlin-purple?style=flat&logo=Kotlin&logoColor=an7F52FF"/>  <img src="https://img.shields.io/badge/Android Studio-green?style=flat&logo=Android Studio&logoColor=3DDC84"/>  <img src="https://img.shields.io/badge/Arduino-darkgreen?style=flat&logo=Arduino&logoColor=00979D"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white" />
 #
 ✨ Projects (details in repositories)
 
